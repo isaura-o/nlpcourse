@@ -1,9 +1,1 @@
-if broken:
-
-"metadata": {
-    "widgets": {
-        "some_widget_id": {
-            "state": {}   <-- add this if missing
-        }
-    }
-}
+since seems the .ipynb is not saved correctly. I add the script in .py.
